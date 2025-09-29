@@ -1,5 +1,19 @@
-## Hi there 👋
+# Hi👋
+## My Profile 🤴
 
+### 14yo
+### Japan
+
+- TypeScript
+- JavaScript
+- C#
+- C++
+- Css
+- React
+- Next.js
+- TailwindCss
+- Unity
+- UnrealEngine
 
 ## Stats 📈
 <p align="left">
