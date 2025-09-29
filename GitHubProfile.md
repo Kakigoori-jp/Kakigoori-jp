@@ -1,8 +1,6 @@
 # Hi👋
 ## My Profile 🤴
 
-### 14yo
-### Japan
 
 - TypeScript
 - JavaScript
