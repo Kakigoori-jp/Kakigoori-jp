@@ -3,14 +3,7 @@
 
 
 - TypeScript
-- JavaScript
-- C#
-- C++
-- Css
-- React
-- Next.js
 - TailwindCss
-- Unity
 - UnrealEngine
 
 ## Stats 📈
