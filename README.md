@@ -4,7 +4,6 @@
 
 - TypeScript
 - TailwindCss
-- UnrealEngine
 
 ## Stats 📈
 <p align="left">
