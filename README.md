@@ -22,6 +22,7 @@ I enjoy building **modern, fast, and scalable web applications**.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000.svg?logo=typescript&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000.svg?logo=tailwindcss&style=for-the-badge)
 ![MUI](https://img.shields.io/badge/-MUI-000000.svg?logo=mui&style=for-the-badge)
+![Shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000.svg?logo=shadcn/ui&style=for-the-badge)
 
 ### Backend / Infra
 ![Supabase](https://img.shields.io/badge/-Supabase-000000.svg?logo=supabase&style=for-the-badge)
